@@ -1,1 +1,2 @@
 
+web: gunicorn rutu.wsgi 
